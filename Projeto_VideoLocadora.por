@@ -13,6 +13,10 @@ programa {
     escreva("\n10.Sair do programa\n\n")
   }
 
+  funcao cadastroFilmes(){
+   
+
+  }
 
 
   funcao inicio() {
@@ -30,6 +34,7 @@ programa {
 
       escolha(opcaoMenu){
         caso 1:
+          cadastroFilmes()
         pare
         caso 2:
         pare
