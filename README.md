@@ -1,2 +1,2 @@
 # Projeto-VideoLocadora
-Iniciado por mim para pratica sobre funcoes
+projeto video locadora em portugol
